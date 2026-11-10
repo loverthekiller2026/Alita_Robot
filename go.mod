@@ -8,10 +8,10 @@ require (
 	github.com/alicebob/miniredis/v2 v2.40.0
 	github.com/cloudflare/ahocorasick v0.0.0-20240916140611-054963ec9396
 	github.com/eko/gocache/lib/v4 v4.4.0
-	github.com/eko/gocache/store/redis/v4 v4.2.12
+	github.com/eko/gocache/store/redis/v4 v4.2.13
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/jackc/pgx/v5 v5.11.0
+	github.com/jackc/pgx/v5 v5.12.0
 	github.com/joho/godotenv v1.5.1
 	github.com/mojocn/base64Captcha v1.3.8
 	github.com/prometheus/client_golang v1.25.0
@@ -35,7 +35,7 @@ require (
 	go.opentelemetry.io/otel/sdk/log v1.47.0
 	go.opentelemetry.io/otel/sdk/metric v1.47.0
 	go.opentelemetry.io/otel/trace v1.47.0
-	golang.org/x/sync v0.24.0
+	golang.org/x/sync v0.25.0
 	golang.org/x/text v0.43.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/postgres v1.6.3
